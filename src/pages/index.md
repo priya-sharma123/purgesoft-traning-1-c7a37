@@ -23,7 +23,7 @@ sections:
       - title: >-
           Voluptatem dignissimos provident quasi corporis voluptates sit
           assumenda.
-        image: images/feature1.png
+        image: images/features-1.png
         image_alt: App preview on a phone and tablet
         content: >
           Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
