@@ -15,7 +15,7 @@ sections:
     type: section_features
     background: gray
     title: About_
-    subtitle: ''
+    subtitle: Who We Are
     features:
       - title: >-
           Voluptatem dignissimos provident quasi corporis voluptates sit
