@@ -17,9 +17,7 @@ sections:
     title: About_
     subtitle: Who We Are
     features:
-      - title: >-
-          Voluptatem dignissimos provident quasi corporis voluptates sit
-          assumenda.
+      - title: ''
         image: images/features-1.png
         image_alt: App preview on a phone and tablet
         content: >
