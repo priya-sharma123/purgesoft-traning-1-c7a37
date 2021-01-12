@@ -1,6 +1,6 @@
 ---
 title: Customer Loyalty Programs That Stick
-subtitle: A story about customer loyaltyjd
+subtitle: A story about customer loyalty
 author: src/data/authors/jane-doe.yaml
 excerpt: >-
   A story about customer loyalty curabitur sed consectetur nisi. Integer sit
