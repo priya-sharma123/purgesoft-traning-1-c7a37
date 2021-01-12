@@ -5,16 +5,7 @@ sections:
     type: section_hero
     image: images/hero.png
     image_alt: App preview
-    title: >-
-      Sequi ea ut et est Sequi ea ut et est quaeratUt velit est quam dolor ad a
-      aliquid qui aliquid. Sequi ea ut et est quaerat sequi nihil ut aliquam.
-      Occaecati alias dolorem mollitia ut. Similique ea voluptatem. Esse
-      doloremque accusamus repellendus deleniti vel. Minus et tempore modi
-      architecto.Read MorequaeratUt velit est quam dolor ad a aliquid qui
-      aliquid. Sequi ea ut et est quaerat sequi nihil ut aliquam. Occaecati
-      alias dolorem mollitia ut. Similique ea voluptatem. Esse doloremque
-      accusamus repellendus deleniti vel. Minus et tempore modi architecto.Read
-      More
+    title: ''
     content: >-
       Azimuth is the perfect theme for developers, designers and entrepreneurs
       who need a sleek, modern SaaS site. 
