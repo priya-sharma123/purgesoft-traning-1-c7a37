@@ -15,7 +15,15 @@ sections:
     type: section_features
     background: gray
     title: About_
-    subtitle: Who We Are
+    subtitle: >-
+      Who We Are Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
+      eiusmod tempor incididunt ut labore et dolore magna aliqua.  Ullamco
+      laboris nisi ut aliquip ex ea commodo consequat Duis aute irure dolor in
+      reprehenderit in voluptate velit Ullamco laboris nisi ut aliquip ex ea
+      commodo consequat Ullamco laboris nisi ut aliquip ex ea commodo consequat.
+      Duis aute irure dolor in reprehenderit in voluptate velit esse cillum
+      dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+      proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
     features:
       - title: ''
         image: images/features-1.png
