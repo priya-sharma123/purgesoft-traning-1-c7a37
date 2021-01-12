@@ -14,7 +14,7 @@ sections:
   - section_id: features
     type: section_features
     background: gray
-    title: W
+    title: Wh
     subtitle: About_
     features:
       - title: >-
