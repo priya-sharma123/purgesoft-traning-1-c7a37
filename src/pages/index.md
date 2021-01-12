@@ -16,9 +16,7 @@ sections:
     type: section_features
     background: gray
     title: ''
-    subtitle: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-      quis lorem malesuada luctus.
+    subtitle: About_
     features:
       - title: >-
           Voluptatem dignissimos provident quasi corporis voluptates sit
