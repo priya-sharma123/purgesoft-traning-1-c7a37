@@ -25,7 +25,9 @@ sections:
       nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
       culpa qui officia deserunt mollit anim id est laborum.
     features:
-      - title: ''
+      - title: >-
+          Voluptatem dignissimos provident quasi corporis voluptates sit
+          assumenda.
         image: images/features-1.png
         image_alt: App preview on a phone and tablet
         content: >
