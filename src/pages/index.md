@@ -9,7 +9,7 @@ sections:
     content: |
       # Sequi ea ut et est quaerat.
     actions:
-      - label: Learn More
+      - label: read More
         url: /features
         style: primary
   - section_id: features
