@@ -3,7 +3,6 @@ title: Home
 sections:
   - section_id: ''
     type: section_hero
-    image: images/hero.png
     image_alt: App preview
     title: ''
     content: |
